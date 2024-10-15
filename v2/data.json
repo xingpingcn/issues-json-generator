@@ -1,0 +1,33 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "大佬论坛",
+      "url": "https://www.dalao.net/",
+      "avatar": "https://www.dalao.net/upload/attach/202410/1_1728884298539.webp",
+      "screenshot": "https://www.dalao.net/upload/attach/202410/1_1728884298539.webp",
+      "description": "大佬论坛"
+    },
+    {
+      "title": "kun cheng",
+      "url": "https://www.kunchengblog.com/essay",
+      "avatar": "https://img.88icon.com/download/jpg/202001/1d371b938046a5c4cd1b384f017b74eb.jpg!con",
+      "screenshot": "https://img.88icon.com/download/jpg/202001/1d371b938046a5c4cd1b384f017b74eb.jpg!con",
+      "description": "单向添加"
+    },
+    {
+      "title": "杜老师说",
+      "url": "https://dusays.com/",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "screenshot": "https://cdn.dusays.com/avatar.png",
+      "description": "杜老师说的博客"
+    },
+    {
+      "title": "邢平cn",
+      "url": "https://xingpingcn.github.io",
+      "avatar": "https://jsd.cdn.zzko.cn/gh/xingpingcn/picx-images-hosting@master/20230419/%E8%87%AD%E5%8D%B7%E5%AE%9D.74vk4cdjex40.jpg",
+      "screenshot": "https://jsd.onmicrosoft.cn/npm/p-hosting-for-xp@1.0.25/20230508/Snipaste_2023-05-08_00-59-44.2lzfpy52dcu0.webp",
+      "description": "null description"
+    }
+  ]
+}
